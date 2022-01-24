@@ -6,7 +6,6 @@
 <a href="https://instagram.com/rodriitepatzi" target="_blank"><img align="left" alt="RodriiTepatzi | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/rodriitepatzi" target="_blank"><img align="left" alt="RodriiTepatzi | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://medium.com/@aakarshbiju" target="_blank"><img align="left" alt="RodriiTepatzi | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
-<a href="https://dev.to/aakarshb" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
 <br />
 <br />
