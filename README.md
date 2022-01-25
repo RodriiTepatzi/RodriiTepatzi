@@ -1,4 +1,4 @@
-## Heyyo, I'm <a href="https://rodriitepatzi.dev" target="_blank">RodriiTepatzi</a>!
+## Hey!, I'm <a href="https://rodriitepatzi.dev" target="_blank">RodriiTepatzi</a>!
 (Use dark theme to find my socials ;)
 
 <a href="https://rodriitepatzi.dev" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
